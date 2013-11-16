@@ -29,9 +29,9 @@
 #include "MsTimer2.h"
 #include "ClockTHREE.h"
 #include "SPI.h"
-// #include "english.h" // only need one language at a time
+#include "english.h" // only need one language at a time
 // #include "german.h"
-#include "english_jr.h"
+// #include "english_jr.h"
 // #include "german_jr.h"
 // #include "hungarian.h"
 
